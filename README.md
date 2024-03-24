@@ -1,4 +1,2 @@
 # 
-In this project I used Entity framework to work with data using objects of domain
-specific classes without focusing on the underlying database tables and columns where
-this data is stored.
+Solution run with Visual Studio 2022 (right click on DLWMS.sln and open with). Before startingwork, it is necessary to rebuild solution a, that is, right-click on Solution 'DLWMS' and rebuild all.
